@@ -1,0 +1,5 @@
+- Build BBNN model chart (perhaps don't need a chart at all, use an image)
+- Plot a result in the image
+- Design explanations
+- Query trading economics API: (i) current account; (ii) salary
+- Country selector
